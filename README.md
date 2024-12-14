@@ -1,4 +1,3 @@
-# Capstone-Project-Telcom-Churn-Prediction
 Telecom Churn Prediction
 Telecom companies aim to predict which customers are at high risk of churn, and in this project, the goal is to:
 
